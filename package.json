@@ -5,12 +5,12 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/eyucoder/chatgpt-clone"
+    "url": "https://github.com/codekalimi/chatgpt-pro"
   },
   "author": {
-    "name": "eyucoder",
-    "email": "eyueldaniel0921@gmail.com",
-    "url": "https://github.com/eyucoder"
+    "name": "codekalimi",
+    "email": "codekalimi@gmail.com",
+    "url": "https://github.com/codekalimi"
   },
   "scripts": {
     "dev": "vite",
